@@ -1,0 +1,1 @@
+This app is designed as a template for making to do lists. The name of the app is "Daves Todo List" app.
